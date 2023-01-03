@@ -7,11 +7,11 @@
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/HackerRank-SQL-Solutions.svg?cache=remove)
 
 <p align="center">  
-
 	<br>
-	<a href="https://www.hackerrank.com/hegdepavankumarT">
+	<a href="https://www.hackerrank.com/hegdepavankumar">
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
+    <br>
     <br>
 </p>
 
