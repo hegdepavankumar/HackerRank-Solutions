@@ -16,7 +16,7 @@
 </p>
 
 ## Description
-The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
+The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges (Letest and Updated).
 
 ## Domains
 
@@ -59,6 +59,12 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](Basic%20Join/Ollivander's%20Inventory.sql) |
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](/Basic%20Join/Contest%20Leaderboard.sql) |
+
+
+
+# Need Help:
+
+If you have issues while coding this, you can download the source code by clicking on the download button below. Also, do leave your suggestions and feedback in the Issue section.
 
 
 ## Creator [🔝](#HackerRank-SQL-Solutions)
