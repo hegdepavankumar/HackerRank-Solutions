@@ -61,6 +61,17 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](/Basic%20Join/Contest%20Leaderboard.sql) |
 
 
+## Creator [🔝](#HackerRank-SQL-Solutions)
+
+(https://github.com/hegdepavankumar). This Project is Created by :-
+
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+
+```
+           Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 
 
 
