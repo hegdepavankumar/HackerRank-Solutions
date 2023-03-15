@@ -1,10 +1,10 @@
 # HackerRank-SQL-Solutions
 
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/HackerRank-SQL-Challenges-Solutions?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/HackerRank-SQL-Solutions?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/HackerRank-SQL-Solutions?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/HackerRank-SQL-Solutions?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/HackerRank-SQL-Solutions.svg?cache=remove)
 
 <p align="center">  
 	<br>
