@@ -17,6 +17,10 @@
 
 ## Description
 The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges (Letest and Updated).
+For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+
+## Note 
+Don't Copy and Paste to the code by simply getting completion reward, try to understand the query..It will help you any Doubt regarding solutions fell free to ask in Discussion section [Happy Learning!..👍] 
 
 ## Domains
 
