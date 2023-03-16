@@ -25,6 +25,9 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 
 ## Domains
 
+<br>
+
+
 ### Basic Select Challenges
 
 | Number | Challenges | Solutions |
@@ -51,6 +54,7 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](Basic%20Select/Employee-Salaries.sql)
 
 
+<br>
 
 ### Basic Join
 
@@ -65,6 +69,7 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](/Basic%20Join/Contest%20Leaderboard.sql) |
 
+<br>
 
 
 ### Aggregation Functions
@@ -89,6 +94,7 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 | 16| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2019.sql) |
 | 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2020.sql) |
 
+<br>
 
 
 
@@ -97,6 +103,7 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 If you have issues while coding this, you can download the source code by clicking on the download button below. Also, do leave your suggestions and feedback in the Discussion section.
 For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
+<br>
 
 
 ## Creator [🔝](#HackerRank-SQL-Solutions)
