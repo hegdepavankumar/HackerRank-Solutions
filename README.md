@@ -64,7 +64,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 # Need Help:
 
-If you have issues while coding this, you can download the source code by clicking on the download button below. Also, do leave your suggestions and feedback in the Issue section.
+If you have issues while coding this, you can download the source code by clicking on the download button below. Also, do leave your suggestions and feedback in the Discussion section.
 
 
 ## Creator [🔝](#HackerRank-SQL-Solutions)
