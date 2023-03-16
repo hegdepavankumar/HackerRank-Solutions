@@ -70,6 +70,8 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 # Need Help:
 
 If you have issues while coding this, you can download the source code by clicking on the download button below. Also, do leave your suggestions and feedback in the Discussion section.
+For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+
 
 
 ## Creator [🔝](#HackerRank-SQL-Solutions)
