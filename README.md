@@ -29,6 +29,17 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 
 ## Domains
 
+1) SQl
+2) JAVA -- Coming Soon
+3) Python  -- Coming Soon
+4) Linux Shell  -- Coming Soon
+5) CSS -- Coming Soon
+6) Databases -- Coming Soon
+7) C++ -- Coming Soon
+8) C -- Coming Soon
+9) Regex -- Coming Soon
+10) Mathematics -- Coming Soon
+
 
 
 
