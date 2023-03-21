@@ -63,7 +63,7 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](Basic%20Join/Asian%20Population.sql) |
-| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [SQL](Basic%20Join/African%20Cities.sql) |
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [SQL](https://github.com/hegdepavankumar/HackerRank-Solutions/blob/main/SQL/Basic%20Join/African%20Cities.sql) |
 | 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](Basic%20Join/Average%20Population%20of%20Each%20Continent.sql) |
 | 4 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | [SQL](Basic%20Join/The%20Report.sql) |
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](Basic%20Join/Top%20Competitors.sql) |
