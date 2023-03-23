@@ -30,7 +30,7 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 ## Domains
 
 1) SQl :- [Click Here](https://github.com/hegdepavankumar/HackerRank-Solutions/tree/main/SQL)
-2) JAVA :- Coming Soon
+2) JAVA :- [Click Here](https://github.com/hegdepavankumar/HackerRank-Solutions/tree/main/JAVA)
 3) Python  :- Coming Soon
 4) Linux Shell  :- Coming Soon
 5) CSS :- Coming Soon
