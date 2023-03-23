@@ -32,6 +32,9 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 
 ### Introduction Challenges
 
+<br>
+
+
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [JAVA](https://github.com/hegdepavankumar/HackerRank-Solutions/blob/main/JAVA/Welcome%20to%20Java!.java)
