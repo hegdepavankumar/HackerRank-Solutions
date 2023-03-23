@@ -34,7 +34,7 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [SQL](Basic%20Select/Revising-the-select-Query-1.sql)
+| 1 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [JAVA](https://github.com/hegdepavankumar/HackerRank-Solutions/blob/main/JAVA/Welcome%20to%20Java!.java)
 
 
 
