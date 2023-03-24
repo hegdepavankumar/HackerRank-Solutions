@@ -1,10 +1,10 @@
 # HackerRank-JAVA-Solutions
 
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/HackerRank-JAVA-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/HackerRank-JAVA-Solutions?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/HackerRank-JAVA-Solutions?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/HackerRank-JAVA-Solutions.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/HackerRank-Solutions/JAVA?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/HackerRank-Solutions/JAVA?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/HackerRank-Solutions/JAVA?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/HackerRank-Solutions/JAVA.svg?cache=remove)
 
 <p align="center">  
 	<br>
