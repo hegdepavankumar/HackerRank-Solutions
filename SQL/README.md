@@ -8,7 +8,7 @@
 
 <p align="center">  
 	<br>
-	<a href="https://www.hackerrank.com/hegdepavankumar">
+	<a href="https://www.hackerrank.com/puhegde01">
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
     <br>
