@@ -1,6 +1,4 @@
 # HackerRank-Solutions
-HackerRank-Solutions
-
 
 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/HackerRank-Solutions?style=flat)
@@ -47,12 +45,19 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 
 
 
-# Need Help:
+## Need Help:
 
 If you have issues while coding this, you can download the source code by clicking on the download button below. Also, do leave your suggestions and feedback in the Discussion section.
 For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 <br>
+
+## Instructions
+1).Fork this repository <br>
+2).Clone the forked repository  <br>
+3).Add your contributions (code or documentation)  <br>
+4).Commit and push  <br>
+5).Wait for pull request to be merged  <br>
 
 
 ## Creator [🔝](#HackerRank-Solutions)
@@ -61,8 +66,18 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 
 | [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
-```
-           Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
-          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<br>
+
+
+ <!-- Support Me --> 
+
+ 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 
