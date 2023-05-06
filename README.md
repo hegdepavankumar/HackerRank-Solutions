@@ -60,6 +60,20 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 5).Wait for pull request to be merged  <br>
 
 
+<br>
+
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
 ## Creator [🔝](#HackerRank-Solutions)
 
 (https://github.com/hegdepavankumar). This Project is Created by :-
