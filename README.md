@@ -29,7 +29,7 @@ For Help :- [here](https://github.com/hegdepavankumar/hegdepavankumar/issues/1) 
 
 1) SQl :- [Click Here](https://github.com/hegdepavankumar/HackerRank-Solutions/tree/main/SQL)
 2) JAVA :- [Click Here](https://github.com/hegdepavankumar/HackerRank-Solutions/tree/main/JAVA)
-3) Python  :- Coming Soon
+3) Python  :- [Click Here](https://github.com/hegdepavankumar/HackerRank-Solutions/tree/main/Python)
 4) Linux Shell  :- Coming Soon
 5) CSS :- Coming Soon
 6) Databases -- Coming Soon
